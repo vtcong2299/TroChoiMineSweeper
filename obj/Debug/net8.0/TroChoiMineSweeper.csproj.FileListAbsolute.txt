@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\bin\Debug\net8.0\TroChoiMineSweeper.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\bin\Debug\net8.0\TroChoiMineSweeper.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\bin\Debug\net8.0\TroChoiMineSweeper.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\bin\Debug\net8.0\TroChoiMineSweeper.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\bin\Debug\net8.0\TroChoiMineSweeper.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\obj\Debug\net8.0\TroChoiMineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\obj\Debug\net8.0\TroChoiMineSweeper.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\obj\Debug\net8.0\TroChoiMineSweeper.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\obj\Debug\net8.0\TroChoiMineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\obj\Debug\net8.0\TroChoiMineSweeper.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\obj\Debug\net8.0\refint\TroChoiMineSweeper.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\obj\Debug\net8.0\TroChoiMineSweeper.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\obj\Debug\net8.0\TroChoiMineSweeper.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TroChoiMineSweeper\obj\Debug\net8.0\ref\TroChoiMineSweeper.dll
